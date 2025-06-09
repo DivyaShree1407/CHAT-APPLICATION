@@ -73,3 +73,9 @@ Unique usernames per tab
 Backend running on Node.js
 
 Responsive design for desktop and mobile
+
+OUTPUT : 
+
+![Image](https://github.com/user-attachments/assets/cb2903b9-0823-43a7-a26a-789db7eeef8f)
+
+![Image](https://github.com/user-attachments/assets/ce1b8655-f4b2-4ca5-81ef-34019a5359ce)
